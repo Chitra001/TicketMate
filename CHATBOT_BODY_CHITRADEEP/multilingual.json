@@ -1,0 +1,74 @@
+{
+  "english": {
+    "welcome": "Hello! *{name}* Welcome to *PRAGYA AI*. Please select your preferred language:\n1. English\n2. हिंदी\n3. বাংলা\n4. தமிழ்\n5. മലയാളം\n6. मराठी",
+    "language_selected": "You have selected English. Please choose an option:\n1. Book a ticket\n2. Get a previously booked ticket\n3. Get directions\n4. Cultural overview\n5. Things to see along a direction",
+    "invalid_choice": "Invalid choice. Please select a valid option.",
+    "search_by": "Would you like to search by:\n1. State\n2. Current location\n3. Pincode",
+    "ticket_details": "Ticket Details:\nAdult: {adult_price}\nChild: {child_price}",
+    "free_entry": "Visiting *{museum_name}* is free!!!",
+    "date_options": "Please select a date:\n1. Today ({today})\n2. Tomorrow ({tomorrow})\n3. Day after Tomorrow ({day_after_tomorrow})",
+    "adults_prompt": "How many adults are going?",
+    "children_prompt": "How many children are going?",
+    "final_confirmation": "Thank you! You have selected:\nMuseum: *{museum_name}*\nDate: {selected_date_str}\nNumber of adults: {num_adults}\nNumber of children: {num_children}\nTotal cost: ₹{total_cost}"
+  },
+  "hindi": {
+    "welcome": "नमस्ते! *{name}* आपका स्वागत है *PRAGYA AI* में। कृपया अपनी पसंदीदा भाषा चुनें:\n1. English\n2. हिंदी\n3. বাংলা\n4. தமிழ்\n5. മലയാളം\n6. मराठी",
+    "language_selected": "आपने हिंदी चुना है। कृपया एक विकल्प चुनें:\n1. टिकट बुक करें\n2. पहले से बुक किया गया टिकट प्राप्त करें\n3. निर्देश प्राप्त करें\n4. सांस्कृतिक अवलोकन\n5. दिशा में देखने योग्य चीजें",
+    "invalid_choice": "अमान्य विकल्प। कृपया एक मान्य विकल्प चुनें।",
+    "search_by": "क्या आप द्वारा खोज करना चाहेंगे:\n1. राज्य\n2. वर्तमान स्थान\n3. पिनकोड",
+    "ticket_details": "टिकट विवरण:\nवयस्क: {adult_price}\nबच्चा: {child_price}",
+    "free_entry": "*{museum_name}* का दौरा मुफ्त है!!!",
+    "date_options": "कृपया एक तारीख़ चुनें:\n1. आज ({today})\n2. कल ({tomorrow})\n3. परसों ({day_after_tomorrow})",
+    "adults_prompt": "कितने वयस्क जा रहे हैं?",
+    "children_prompt": "कितने बच्चे जा रहे हैं?",
+    "final_confirmation": "धन्यवाद! आपने चुना है:\nसंग्रहालय: *{museum_name}*\nतारीख़: {selected_date_str}\nवयस्कों की संख्या: {num_adults}\nबच्चों की संख्या: {num_children}\nकुल लागत: ₹{total_cost}"
+  },
+  "bengali": {
+    "welcome": "নমস্কার! *{name}* *PRAGYA AI* তে আপনাকে স্বাগতম। আপনার পছন্দের ভাষা নির্বাচন করুন:\n1. English\n2. हिंदी\n3. বাংলা\n4. தமிழ்\n5. മലയാളം\n6. मराठी",
+    "language_selected": "আপনি বাংলা নির্বাচন করেছেন। একটি বিকল্প নির্বাচন করুন:\n1. টিকেট বুক করুন\n2. আগে বুক করা টিকেট পান\n3. নির্দেশ পান\n4. সাংস্কৃতিক ওভারভিউ\n5. নির্দেশে দেখার জন্য জিনিসগুলি",
+    "invalid_choice": "অবৈধ বিকল্প। একটি বৈধ বিকল্প নির্বাচন করুন।",
+    "search_by": "আপনি কী দ্বারা অনুসন্ধান করতে চান:\n1. রাজ্য\n2. বর্তমান স্থান\n3. পিনকোড",
+    "ticket_details": "টিকেট বিবরণ:\nপ্রাপ্তবয়স্ক: {adult_price}\nশিশু: {child_price}",
+    "free_entry": "*{museum_name}* ভ্রমণ বিনামূল্যে!!!",
+    "date_options": "একটি তারিখ নির্বাচন করুন:\n1. আজ ({today})\n2. আগামীকাল ({tomorrow})\n3. আগামী পরশু ({day_after_tomorrow})",
+    "adults_prompt": "কতজন প্রাপ্তবয়স্ক যাচ্ছেন?",
+    "children_prompt": "কতজন শিশু যাচ্ছে?",
+    "final_confirmation": "ধন্যবাদ! আপনি নির্বাচন করেছেন:\nসাংগ্রহালয়: *{museum_name}*\nতারিখ: {selected_date_str}\nপ্রাপ্তবয়স্কদের সংখ্যা: {num_adults}\nশিশুদের সংখ্যা: {num_children}\nমোট খরচ: ₹{total_cost}"
+  },
+  "tamil": {
+    "welcome": "வணக்கம்! *{name}* *PRAGYA AI* வருகை தாருங்கள். தயவுசெய்து உங்கள் விருப்பமான மொழியைத் தேர்ந்தெடுக்கவும்:\n1. English\n2. हिंदी\n3. বাংলা\n4. தமிழ்\n5. മലയാളം\n6. मराठी",
+    "language_selected": "நீங்கள் தமிழ் தேர்ந்தெடுத்தீர்கள். தயவுசெய்து ஒரு விருப்பத்தைத் தேர்ந்தெடுக்கவும்:\n1. டிக்கெட் பதிவு செய்யவும்\n2. முன்பே பதிவு செய்த டிக்கெட் பெறவும்\n3. வழிநடத்தலைக் பெறவும்\n4. பண்பாட்டு பார்வை\n5. திசையில் பார்க்க வேண்டியவை",
+    "invalid_choice": "தவறான தேர்வு. ஒரு சரியான விருப்பத்தைத் தேர்ந்தெடுக்கவும்.",
+    "search_by": "நீங்கள் தேட விரும்புகிறீர்களா:\n1. மாநிலம்\n2. தற்போதைய இடம்\n3. பின்கோடு",
+    "ticket_details": "டிக்கெட் விவரங்கள்:\nவயது வந்தவர்: {adult_price}\nகுழந்தை: {child_price}",
+    "free_entry": "*{museum_name}* உலா இலவசம்!!!",
+    "date_options": "தயவுசெய்து ஒரு தேதியைத் தேர்ந்தெடுக்கவும்:\n1. இன்று ({today})\n2. நாளை ({tomorrow})\n3. நாளைக்கு ({day_after_tomorrow})",
+    "adults_prompt": "எத்தனை வயது வந்தவர்கள் செல்கிறார்கள்?",
+    "children_prompt": "எத்தனை குழந்தைகள் செல்கிறார்கள்?",
+    "final_confirmation": "நன்றி! நீங்கள் தேர்ந்தெடுத்துள்ளீர்கள்:\nக்களஞ்சியம்: *{museum_name}*\nதேதி: {selected_date_str}\nவயது வந்தவர்களின் எண்ணிக்கை: {num_adults}\nகுழந்தைகளின் எண்ணிக்கை: {num_children}\nமொத்த செலவு: ₹{total_cost}"
+  },
+  "malayalam": {
+    "welcome": "ഹലോ! *{name}* *PRAGYA AI* ൽ സ്വാഗതം. ദയവായി നിങ്ങളുടെ ഇഷ്ട ഭാഷ തിരഞ്ഞെടുക്കുക:\n1. English\n2. हिंदी\n3. বাংলা\n4. தமிழ்\n5. മലയാളം\n6. मराठी",
+    "language_selected": "നിങ്ങൾ മലയാളം തിരഞ്ഞെടുക്കുന്നു. ദയവായി ഒരു ഓപ്ഷൻ തിരഞ്ഞെടുക്കുക:\n1. ടിക്കറ്റ് ബുക്ക് ചെയ്യുക\n2. മുൻകൂട്ടി ബുക്ക് ചെയ്ത ടിക്കറ്റ് നേടുക\n3. നിർദ്ദേശങ്ങൾ നേടുക\n4. സാംസ്കാരിക അവലോകനം\n5. വഴി കാണാൻ സാധിക്കുന്ന വസ്തുക്കൾ",
+    "invalid_choice": "അസാധുവായ ഓപ്ഷൻ. ദയവായി ഒരു സാധുവായ ഓപ്ഷൻ തിരഞ്ഞെടുക്കുക.",
+    "search_by": "താങ്കൾ തിരയാൻ ആഗ്രഹിക്കുന്നതേ:\n1. സംസ്ഥാനം\n2. നിലവിലെ സ്ഥലം\n3. പിൻകോഡ്",
+    "ticket_details": "ടിക്കറ്റ് വിശദാംശങ്ങൾ:\nമുതിർന്നവർ: {adult_price}\nകുട്ടികൾ: {child_price}",
+    "free_entry": "*{museum_name}* സന്ദർശനം സൗജന്യമാണ്!!!",
+    "date_options": "ദയവായി ഒരു തീയതി തിരഞ്ഞെടുക്കുക:\n1. ഇന്ന് ({today})\n2. നാളെ ({tomorrow})\n3. മറ്റന്നാൾ ({day_after_tomorrow})",
+    "adults_prompt": "എത്ര മുതിർന്നവർ പോകുന്നു?",
+    "children_prompt": "എത്ര കുട്ടികൾ പോകുന്നു?",
+    "final_confirmation": "നന്ദി! നിങ്ങൾ തിരഞ്ഞെടുക്കുന്നു:\nമ്യൂസിയം: *{museum_name}*\nതീയതി: {selected_date_str}\nമുതിർന്നവരുടെ എണ്ണം: {num_adults}\nകുട്ടികളുടെ എണ്ണം: {num_children}\nമൊത്തം ചെലവ്: ₹{total_cost}"
+  },
+  "marathi": {
+    "welcome": "नमस्कार! *{name}* *PRAGYA AI* मध्ये आपले स्वागत आहे. कृपया आपली पसंतीची भाषा निवडा:\n1. English\n2. हिंदी\n3. বাংলা\n4. தமிழ்\n5. മലയാളം\n6. मराठी",
+    "language_selected": "तुम्ही मराठी निवडली आहे. कृपया एक पर्याय निवडा:\n1. तिकीट बुक करा\n2. आधी बुक केलेले तिकीट मिळवा\n3. दिशा मिळवा\n4. सांस्कृतिक आढावा\n5. दिशानुसार पाहण्यासाठी गोष्टी",
+    "invalid_choice": "अवैध पर्याय. कृपया एक वैध पर्याय निवडा.",
+    "search_by": "आपण कशाद्वारे शोधू इच्छिता:\n1. राज्य\n2. वर्तमान स्थान\n3. पिनकोड",
+    "ticket_details": "तिकीट तपशील:\nप्रौढ: {adult_price}\nमुले: {child_price}",
+    "free_entry": "*{museum_name}* ला भेट देणे मोफत आहे!!!",
+    "date_options": "कृपया एक तारीख निवडा:\n1. आज ({today})\n2. उद्या ({tomorrow})\n3. परवा ({day_after_tomorrow})",
+    "adults_prompt": "किती प्रौढ जात आहेत?",
+    "children_prompt": "किती मुले जात आहेत?",
+    "final_confirmation": "धन्यवाद! आपण निवडले आहे:\nसंग्रहालय: *{museum_name}*\nतारीख: {selected_date_str}\nप्रौढांची संख्या: {num_adults}\nमुलांची संख्या: {num_children}\nएकूण खर्च: ₹{total_cost}"
+  }
+}
