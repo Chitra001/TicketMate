@@ -58,7 +58,7 @@ We prioritize the security of user data, ensuring all personal and payment infor
   </div>
   <div style="flex: 1 0 33.66%; padding: 20px; padding-top: 50px;">
     <!-- Right column content (image) -->
-    <img src="src/static/img/banner/report.jpeg" alt="Image" width=100%>
+    <img src="GitHub_img/whatsapp integration.jpg" alt="Image" width=40%>
   </div>
 </div>
 
