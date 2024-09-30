@@ -70,7 +70,7 @@ We prioritize the security of user data, ensuring all personal and payment infor
   </div>
   <div style="flex: 1 0 33.66%; padding: 20px; padding-top: 50px;">
     <!-- Right column content (image) -->
-    <img src="GitHub_img/multilingual_en.jpg" alt="Image" width=32%>
+    <img src="GitHub_img/AIchatbot.jpg" alt="Image" width=32%>
   </div>
 </div>
 
