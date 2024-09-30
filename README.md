@@ -9,29 +9,29 @@
 
 
 
-# Our Solution
+# Our Solution💡
 
 <img src="GitHub_img/Logo.png" width=412px; height= 115px >
 
 # Our Vision
 Our vision is to revolutionize the tourism experience with PRAGYA AI, providing a seamless, efficient, and accessible platform for ticketing, personalized plans, and visitor engagement. By leveraging cutting-edge technology, we aim to make cultural experiences more accessible, inclusive, and user-friendly for all.
 
-### 1. Accessibility for All:
+### 1. Accessibility for All👥:
 PRAGYA AI is designed to be accessible to everyone, whether through its multilingual support or by using platforms like WhatsApp, helping users who find it challenging to navigate traditional web interfaces.
 
-### 2. Personalized Itineraries:
+### 2. Personalized Itineraries🗓:
 Our system goes beyond ticketing, allowing users to create customized one-day plans based on their preferences, such as timings, dates, and interests, making their visit tailored and efficient.
 
-### 3. Integrated Services:
+### 3. Integrated Services🙏:
 PRAGYA AI now enables users to book hotels and cabs directly through the platform, providing a complete and integrated solution for planning museum visits.
 
-### 4. Innovation:
+### 4. Innovation🪄:
 Through constant innovation in AI and machine learning, PRAGYA AI enhances user experience by providing personalized recommendations and streamlining interactions.
 
-### 5. Data-Driven Insights:
+### 5. Data-Driven Insights📈:
 By collecting and analyzing visitor data, we provide museums with actionable insights that optimize operations and enhance marketing strategies, ensuring a more engaging experience for visitors.
 
-### 6. Privacy and Security:
+### 6. Privacy and Security🔐:
 We prioritize the security of user data, ensuring all personal and payment information is handled securely in compliance with global privacy regulations.
 
 
