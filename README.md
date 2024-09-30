@@ -93,7 +93,7 @@ We prioritize the security of user data, ensuring all personal and payment infor
   </div>
   <div style="flex: 1 0 33.66%; padding: 20px; padding-top: 50px;">
     <!-- Right column content (image) -->
-    <img src="GitHub_img/encrypted qr.png" alt="Image" width=15%>  <img src="GitHub_img/invoice.png" alt="Image" width=45%>
+    <img src="GitHub_img/QR & Invoice.png" alt="Image" width=40%>
   </div>
 </div>
 
