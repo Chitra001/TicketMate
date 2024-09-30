@@ -1,6 +1,6 @@
 
 <div style="text-align: center;">
-  <img src="GitHub_img/TicketMate Logo.png" alt="Our Solution" style="border-radius: 10px; width= 412px; height= 115px">
+  <img src="GitHub_img/TicketMate Logo.png" alt="Our Solution" border-radius: 10px; width= 412px; height= 115px>
 </div>
 
 
