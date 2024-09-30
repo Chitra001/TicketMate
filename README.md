@@ -44,7 +44,7 @@ We prioritize the security of user data, ensuring all personal and payment infor
     <h3>🌍 Multi-Language Support:</h3>
     <p style="text-align: justify;">PRAGYA AI breaks down language barriers by offering multilingual support, ensuring accessibility for users from diverse linguistic backgrounds. Whether through WhatsApp or other platforms, users can easily interact in their preferred language, making the system inclusive and globally relevant.</p>
   </div>
-  <div style="flex: 1 0 33.66%; padding: 20px; padding-top: 50px;">
+  <div style="flex: 1 0 33.66%; padding: 20px; padding-top: 50px; text-align: center;">
     <!-- Right column content (image) -->
     <img src="GitHub_img/multilingual_en.jpg" alt="Image" width=35% align="center">         <img src="GitHub_img/multilingual_hi.jpg" alt="Image" width=35% align="center">
   </div>
