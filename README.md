@@ -12,7 +12,7 @@
 
 # Our Solution
 
-<img src="GitHub_img/Logo.png" width=100% >
+<img src="GitHub_img/Logo.png" width=412px; height= 115px >
 
 # Our Vision
 Our vision is to revolutionize the tourism experience with PRAGYA AI, providing a seamless, efficient, and accessible platform for ticketing, personalized plans, and visitor engagement. By leveraging cutting-edge technology, we aim to make cultural experiences more accessible, inclusive, and user-friendly for all.
